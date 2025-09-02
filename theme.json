@@ -158,8 +158,8 @@
     "YELLOW_900": "#fabd2f"
   },
   "fonts": {
-    "Fondamento-Regular":"https://github.com/eeriemyxi/glorious-sunset/blob/main/assets/fonts/Fondamento-Regular.ttf?raw=1",
-    "Fondamento-Italic":"https://github.com/eeriemyxi/glorious-sunset/blob/main/assets/fonts/Fondamento-Italic.ttf?raw=1"
+    "Fondamento-Normal":"https://github.com/eeriemyxi/glorious-sunset/blob/main/assets/fonts/Fondamento-Normal.ttf?raw=1",
+    "Fondamento-NormalItalic":"https://github.com/eeriemyxi/glorious-sunset/blob/main/assets/fonts/Fondamento-NormalItalic.ttf?raw=1"
   },
   "background": {
     "blur": 0,
