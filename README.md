@@ -3,7 +3,7 @@ Gruvbox-based theme for [Revenge](https://github.com/revenge-mod/revenge-bundle)
 
 ---
 
-If you like the theme, feel free to thank me by giving this repository a **★ star**, or by [buying me a coffee](https://github.com/sponsors/eeriemyxi).
+If you like the theme, feel free to thank me by giving this repository a **★ star**, or by [buying me a coffee](https://ko-fi.com/eeriemyxi).
 
 # Installation
 Go to **Themes** under **Revenge** in **Settings**, then tap the (+) button, finally paste this URL:
